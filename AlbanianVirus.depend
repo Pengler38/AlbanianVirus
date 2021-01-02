@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609192389 source:d:\projects\albanianvirus\icon.rc
+
+1609192132 source:d:\projects\albanianvirus\main.cpp
+	<windows.h>
+
